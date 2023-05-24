@@ -1,5 +1,6 @@
 import styles from "../styles/Portfolio.module.css"
 
+
 export default function(){
     return(
         <div id="projects" className={styles.cardContainer}>
@@ -32,7 +33,7 @@ export default function(){
                             <h1 className={styles.tech}>Tailwindcss</h1>
                         </div>
                         <div className={styles.github}>
-                            <a href="https://github.com/ardasumbul1/Car-rental-app"><img  className="pr-[1vh]" src="/github-logo.png" alt="" /></a>
+                            <a href="https://github.com/ardasumbul1/TechCareerNet-Bootcamp-Project"><img  className="pr-[1vh]" src="/github-logo.png" alt="" /></a>
                             <p className="text-l font-semibold">Code</p>
                         </div>
                     </div>
@@ -51,8 +52,10 @@ export default function(){
                             <h1 className={styles.tech}>Tailwindcss</h1>
                         </div>
                         <div className={styles.github}>
-                            <a href="https://github.com/ardasumbul1/Car-rental-app"><img  className="pr-[1vh]" src="/github-logo.png" alt="" /></a>
+                            <a href="https://github.com/ardasumbul1/crypto-market-place"><img  className="pr-[1vh] pl-[1vh]" src="/github-logo.png" alt="" /></a>
                             <p className="text-l font-semibold">Code</p>
+                            <a href="https://crypto-bazaar.vercel.app/"><img  className="pr-[1vh] pl-[1vh] w-[60px]" src="/live.png" alt="" /></a>
+                            <p className="text-l font-semibold">Live Demo</p>
                         </div>
                     </div>
                 </div>

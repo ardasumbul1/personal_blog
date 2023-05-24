@@ -2,7 +2,7 @@ import styles from "../styles/Landing.module.css"
 
 export default function Landing(){
     return(
-        <div className="p-[15vh] shadow-2xl bg-slate-100">
+        <div className="lg:p-[15vh] p-[5vh] shadow-2xl bg-slate-100">
             <div className="lg:flex justify-center">
                 <div className="lg:flex justify-center items-center">
                     <div>

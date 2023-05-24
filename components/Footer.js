@@ -7,8 +7,11 @@ export default function Footer(){
             <div className="w-full">
                 
             </div>
-            <Link className="lg:w-[12vh] m-[2vh]" href="https://www.linkedin.com/in/mehmet-arda-s%C3%BCmb%C3%BCl-bb1925175/"><img className="w-[10vh]" src="/linkedin.svg" alt="" /></Link>
-            <Link className="lg: w-[12vh] m-[2vh]" href="https://github.com/ardasumbul1"><img className="w-[10vh]" src="/squareGithub.svg" alt="" /></Link>
+            <div className="flex">
+                <Link className="lg:w-[12vh] m-[2vh]" href="https://www.linkedin.com/in/mehmet-arda-s%C3%BCmb%C3%BCl-bb1925175/"><img className="w-[10vh]" src="/linkedin.svg" alt="" /></Link>
+                <Link className="lg: w-[12vh] m-[2vh]" href="https://github.com/ardasumbul1"><img className="w-[10vh]" src="/squareGithub.svg" alt="" /></Link>
+            </div>
+            
         </footer>
     )
 }
