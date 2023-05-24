@@ -1,0 +1,8 @@
+
+.tech {
+    @apply lg:w-[40px] lg:h-[60px] w-[30px] h-[40px] lg:mr-[10px] lg:ml-[10px];
+}
+
+.techDiv {
+    @apply border-2 border-slate-200 lg:p-[2vh] rounded-full shadow lg:m-[2vh];
+}

@@ -1,0 +1,35 @@
+.cardContainer {
+    @apply bg-slate-100 pt-[10vh] pb-[10vh] text-center;
+}
+
+.card {
+    @apply lg:pl-[35vh] lg:pr-[35vh] lg:mr-[10vh] lg:ml-[10vh] mb-[10vh];
+}
+
+.container{
+    @apply lg:p-[4vh] p-[2vh] lg:flex justify-center shadow-2xl rounded-2xl bg-white;
+}
+
+.tech {
+    @apply border border-slate-200 shadow-xl p-[0.5vh] m-[1vh];
+}
+
+.github {
+    @apply flex items-center pt-[2vh] justify-center;
+}
+
+.heading {
+    @apply text-2xl font-semibold mb-[1vh];
+}
+
+.techContainer{
+    @apply flex justify-center  font-semibold items-center;
+}
+
+.imageR{
+    @apply lg:w-3/5 h-auto lg:rounded-r-2xl;
+}
+
+.imageL{
+    @apply lg:w-3/5 h-auto lg:rounded-l-2xl;
+}
