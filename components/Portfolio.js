@@ -17,7 +17,11 @@ export default function(){
                         </div>
                         <div className={styles.github}>
                             <a href="https://github.com/ardasumbul1/Car-rental-app"><img  className="pr-[1vh]" src="/github-logo.png" alt="" /></a>
-                            <p className="text-l font-semibold">Code</p>
+                            <a href="https://github.com/ardasumbul1/Car-rental-app"><p className="text-l font-semibold">Code</p></a>
+                            
+                            <a href="https://ardasumbul-carlaa.vercel.app/"><img  className="pr-[1vh] pl-[1vh] w-[60px]" src="/live.png" alt="" /></a>
+                            <a href="https://ardasumbul-carlaa.vercel.app/"><p className="text-l font-semibold">Live Demo</p></a>
+                            
                         </div>
                     </div>
                 </div>
@@ -34,7 +38,11 @@ export default function(){
                         </div>
                         <div className={styles.github}>
                             <a href="https://github.com/ardasumbul1/TechCareerNet-Bootcamp-Project"><img  className="pr-[1vh]" src="/github-logo.png" alt="" /></a>
-                            <p className="text-l font-semibold">Code</p>
+                            <a href="https://github.com/ardasumbul1/TechCareerNet-Bootcamp-Project"><p className="text-l font-semibold">Code</p></a>
+                            
+                            <a href="https://ardasumbul-nextflix.vercel.app/"><img  className="pr-[1vh] pl-[1vh] w-[60px]" src="/live.png" alt="" /></a>
+                            <a href="https://ardasumbul-nextflix.vercel.app/"><p className="text-l font-semibold">Live Demo</p></a>
+                            
                         </div>
                     </div>
                     <img className={styles.imageR} src="/Nextflix.png" alt="car-rental" />
@@ -53,9 +61,11 @@ export default function(){
                         </div>
                         <div className={styles.github}>
                             <a href="https://github.com/ardasumbul1/crypto-market-place"><img  className="pr-[1vh] pl-[1vh]" src="/github-logo.png" alt="" /></a>
-                            <p className="text-l font-semibold">Code</p>
+                            <a href="https://github.com/ardasumbul1/crypto-market-place"><p className="text-l font-semibold">Code</p></a>
+                            
                             <a href="https://crypto-bazaar.vercel.app/"><img  className="pr-[1vh] pl-[1vh] w-[60px]" src="/live.png" alt="" /></a>
-                            <p className="text-l font-semibold">Live Demo</p>
+                            <a href="https://crypto-bazaar.vercel.app/"><p className="text-l font-semibold">Live Demo</p></a>
+                           
                         </div>
                     </div>
                 </div>
